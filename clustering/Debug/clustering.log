@@ -1,0 +1,15 @@
+﻿  clustering.cpp
+\\psf\home\documents\visual studio 2015\projects\clustering\clustering\clustering.cpp(28): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+\\psf\home\documents\visual studio 2015\projects\clustering\clustering\clustering.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+\\psf\home\documents\visual studio 2015\projects\clustering\clustering\clustering.cpp(17): warning C4101: 'fp_output' :참조되지 않은 지역 변수입니다.
+\\psf\home\documents\visual studio 2015\projects\clustering\clustering\clustering.cpp(77): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+\\psf\home\documents\visual studio 2015\projects\clustering\clustering\clustering.cpp(98): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  DBSCAN.cpp
+\\psf\home\documents\visual studio 2015\projects\clustering\clustering\dbscan.cpp(57): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+\\psf\home\documents\visual studio 2015\projects\clustering\clustering\dbscan.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Cluster.cpp
+  코드를 생성하고 있습니다...
+  clustering.vcxproj -> \\psf\home\documents\visual studio 2015\Projects\clustering\Debug\clustering.exe

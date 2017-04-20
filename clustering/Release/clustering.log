@@ -1,0 +1,19 @@
+﻿  Cluster.cpp
+  clustering.cpp
+clustering.cpp(28): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+clustering.cpp(31): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+clustering.cpp(17): warning C4101: 'fp_output' :참조되지 않은 지역 변수입니다.
+clustering.cpp(75): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(2254): note: 'sscanf' 선언을 참조하십시오.
+clustering.cpp(96): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+  DBSCAN.cpp
+DBSCAN.cpp(57): warning C4018: '>=': signed 또는 unsigned가 일치하지 않습니다.
+DBSCAN.cpp(106): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Dot.cpp
+  k_means.cpp
+  코드를 생성하고 있습니다.
+  코드를 생성했습니다.
+  All 355 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  clustering.vcxproj -> \\psf\home\documents\visual studio 2015\Projects\clustering\Release\clustering.exe
